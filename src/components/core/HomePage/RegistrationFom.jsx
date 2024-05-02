@@ -110,7 +110,7 @@ const DropDownInfo = () => {
                         <div>
                             <button
                                 type="submit"
-                                className="bg-[#FF7190] text-white px-4 py-2 rounded-md hover:bg-[#e7617f]"
+                                className="bg-[#FD2E5A] flex justify-center mx-auto text-white px-10 py-2 rounded-sm hover:bg-[#e7617f]"
                             >
                                 Submit
                             </button>

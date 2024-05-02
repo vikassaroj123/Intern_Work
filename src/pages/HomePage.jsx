@@ -82,7 +82,7 @@ const HomePage = () => {
                         </div>
 
                         {/* DropDownInfo and RegistrationForm */}
-                        <div className="mt-10 flex flex-col gap-4 items-center w-full lg:mt-12">
+                        <div className="mt-10 gap-y-6 flex flex-col gap-4 items-center w-full lg:mt-12">
                             <DropDownInfo />
                             <DropDownInfo />
                             <RegistrationFom />
