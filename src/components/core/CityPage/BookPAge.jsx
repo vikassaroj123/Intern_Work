@@ -23,7 +23,7 @@ const amenities = [
 
 const BookPAge = () => {
     return (
-        <div className="w-full bg-[#EFEFEF] py-6 px-4">
+        <div className="w-full bg-[#EFEFEF] py-6 px-4 mt-14">
             {/* Amenities Section */}
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8">
                 {amenities.map((amenity, index) => (

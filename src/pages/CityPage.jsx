@@ -61,15 +61,15 @@ const CityPage = () => {
             </div>
 
             {/* Content Section */}
-            <div className=" relative p-6  z-10 w-11/12 mx-auto -mt-24">
+            <div className=" relative p-6  z-10 w-11/12 mx-auto -mt-[32%]">
                 <div className="flex flex-col sm:flex-row justify-evenly">
                     {/* Left Content */}
                     <section className="text-white sm:text-left">
                         <h2 className="text-2xl sm:text-4xl font-bold mb-4">
-                            Private Transfer & Taxi Services in Geneva
+                            Private Transfer & Taxi Services <br /> in Geneva
                         </h2>
                         <p className="text-lg sm:text-xl mb-6">
-                            Book airport transfers, city transfers, and hourly disposal services with driver.
+                            Book airport transfers, city transfers, and hourly <br /> disposal services with driver.
                         </p>
                     </section>
 
@@ -231,8 +231,7 @@ const CityPage = () => {
                     </section>
                 </div>
 
-                {/* Book Now and Pay Later / Travel Image */}
-                <div className="flex flex-col sm:flex-row sm:space-x-6 mt-6">
+                <div className="flex flex-col sm:flex-row sm:space-x-6 absolute bottom-[10%]">
                     <div className="mb-4 sm:mb-0">
                         <img src={Image1} alt="Book Now & Pay Later" className="w-full sm:w-auto" />
                     </div>
