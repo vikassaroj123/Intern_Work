@@ -67,7 +67,16 @@ The application is designed to help users plan their travels by providing guides
 
 ## Screenshots
 
-Include screenshots of the application to give others an idea of its look and feel. For example, you could include images of the homepage and the city page.
+Here are some screenshots of the application:
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 10px;">
+  <img src="screenshots/1.png" alt="Homepage Screenshot" style="width: 45%; height: auto;">
+  <img src="screenshots/2.png" alt="City Page Screenshot" style="width: 45%; height: auto;">
+  <img src="screenshots/3.png" alt="City Page Screenshot" style="width: 45%; height: auto;">
+  <img src="screenshots/4.png" alt="City Page Screenshot" style="width: 45%; height: auto;">
+  <img src="screenshots/5.png" alt="City Page Screenshot" style="width: 45%; height: auto;">
+</div>
+
 
 ## Contributing
 
