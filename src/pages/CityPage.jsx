@@ -65,10 +65,10 @@ const CityPage = () => {
                 <div className="flex flex-col sm:flex-row justify-evenly">
                     {/* Left Content */}
                     <section className="text-white sm:text-left">
-                        <h2 className="text-2xl sm:text-4xl font-bold mb-4">
+                        <h2 className="text-2xl sm:text-4xl font-bold mb-4 font-roboto leading-10">
                             Private Transfer & Taxi Services <br /> in Geneva
                         </h2>
-                        <p className="text-lg sm:text-xl mb-6">
+                        <p className="text-lg sm:text-xl mb-6 leading-10">
                             Book airport transfers, city transfers, and hourly <br /> disposal services with driver.
                         </p>
                     </section>
