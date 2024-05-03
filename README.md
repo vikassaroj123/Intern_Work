@@ -2,6 +2,8 @@
 
 This repository contains the source code for a travel application built using React. The application includes a homepage (`HomePage`) with a navigation bar, welcome message, and information cards for travel guides and FAQs. It also features a city page (`CityPage`) that allows users to book private transfers and taxi services in different cities, along with additional content such as blogs and other cities' information.
 
+##Figma Design File: https://www.figma.com/file/Pohc4FmXHZqPyY176SwoAC/Rydeu?type=design&node-id=0-1&mode=design&t=rIhMCJQjMcvzKAiv-0
+
 ## Table of Contents
 
 - [Overview](#overview)
